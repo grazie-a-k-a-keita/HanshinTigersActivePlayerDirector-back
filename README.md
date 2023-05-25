@@ -11,6 +11,3 @@
 ## Link
 ### 開発環境
 - localhost:8080/
-
-## Overview
-[画像]
