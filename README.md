@@ -9,6 +9,5 @@
 
 ### Description
 
-API としての機能を持つ
-
-フロンドエンド
+- API としての機能を持つ
+- [フロントエンドソース](https://github.com/grazie-a-k-a-keita/hanshin-tigers-active-player-director-front)
