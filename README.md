@@ -1,13 +1,14 @@
-# 研修 個人開発_02
-『阪神タイガーススーパー選手名鑑』
+## 阪神タイガーススーパー選手名鑑 (現役)
+
 阪神タイガースに所属する現役選手を検索できるサイト
 
-## Skill
-### Back
+### Skill
+
 - Java(Spring Boot)
-### DB
 - PostgreSQL
 
-## Link
-### 開発環境
-- localhost:8080/
+### Description
+
+API としての機能を持つ
+
+フロンドエンド

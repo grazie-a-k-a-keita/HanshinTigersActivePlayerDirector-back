@@ -20,7 +20,7 @@ public class ActivePlayerController {
 	ActivePlayerService activePlayerService;
 
 	@CrossOrigin(origins = "*", methods = { RequestMethod.GET }, allowedHeaders = "*")
-	@GetMapping("/allPlayer")
+	@GetMapping("/all-player")
 	public List<ActivePlayer> getAllPlayer() {
 		return activePlayerService.getAllPlayer();
 	}
@@ -50,7 +50,7 @@ public class ActivePlayerController {
 	}
 
 	@GetMapping("/")
-	String helthCheck(){
+	String helthCheck() {
 		return "";
 	}
 
